@@ -15,7 +15,7 @@ Emblems Icons: Done
 
 Mimetypes Icons: Missing
 
-Status Icons: DOne
+Status Icons: Done
 
 
 Screenshots
