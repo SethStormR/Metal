@@ -6,10 +6,15 @@ A cold and easy for the eyes Icon Theme suited for offices and alike. Available 
 Wallpaper included.
 
 Apps icons: Done
+
 Category Icons: Done
+
 Devices Icons: Missing
+
 Emblems Icons: Done
+
 Mimetypes Icons: Missing
+
 Status Icons: DOne
 
 
