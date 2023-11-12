@@ -5,6 +5,14 @@
 A cold and easy for the eyes Icon Theme suited for offices and alike. Available for Gnome, Deepin, XFCE and Budgie DE.
 Wallpaper included.
 
+Apps icons: Done
+Category Icons: Done
+Devices Icons: Missing
+Emblems Icons: Done
+Mimetypes Icons: Missing
+Status Icons: DOne
+
+
 Screenshots
 --
 ![Screenshot from 2023-11-13 00-25-05](https://github.com/SethStormR/Metal/assets/60283532/4194d8e3-f4f2-4b5f-820d-5e1c106e134b)
