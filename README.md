@@ -5,17 +5,8 @@
 A cold and easy for the eyes Icon Theme suited for offices and alike. Available for Gnome, Deepin, XFCE and Budgie DE.
 Wallpaper included.
 
-Apps icons: Done
+Please fill out an issue form for missing icon(s).
 
-Category Icons: Done
-
-Devices Icons: Missing
-
-Emblems Icons: Done
-
-Mimetypes Icons: Missing
-
-Status Icons: Done
 
 
 Screenshots
